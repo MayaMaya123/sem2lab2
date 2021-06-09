@@ -1,0 +1,4 @@
+/Users/mayafleyser/CLionProjects/sem2lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mayafleyser/CLionProjects/sem2lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mayafleyser/CLionProjects/sem2lab2/cmake-build-debug/CMakeFiles/test.dir
+/Users/mayafleyser/CLionProjects/sem2lab2/cmake-build-debug/CMakeFiles/sem2lab2.dir

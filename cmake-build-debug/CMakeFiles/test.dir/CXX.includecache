@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mayafleyser/CLionProjects/sem2lab2/dynamic_array.cpp
+dynamic_array.h
+/Users/mayafleyser/CLionProjects/sem2lab2/dynamic_array.h
+
+/Users/mayafleyser/CLionProjects/sem2lab2/dynamic_array.h
+cstdlib
+-
+
+/Users/mayafleyser/CLionProjects/sem2lab2/linked_list.h
+
+/Users/mayafleyser/CLionProjects/sem2lab2/test.cpp
+iostream
+-
+cassert
+-
+dynamic_array.h
+/Users/mayafleyser/CLionProjects/sem2lab2/dynamic_array.h
+dynamic_array.cpp
+/Users/mayafleyser/CLionProjects/sem2lab2/dynamic_array.cpp
+linked_list.h
+/Users/mayafleyser/CLionProjects/sem2lab2/linked_list.h
+
